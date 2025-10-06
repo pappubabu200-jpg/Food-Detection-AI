@@ -1,0 +1,1 @@
+print('Food Detection AI backend placeholder running')
